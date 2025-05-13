@@ -1,4 +1,4 @@
-Türkçe Readme.md Dosyasına erişmek için: <a href="/Readme.TR.md">Readme TR</a>
+Türkçe Readme.md Dosyasına erişmek için: <a href="/ReadmeTR.md">Readme TR</a>
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
