@@ -147,7 +147,7 @@ Git/Github Repo| Administrated Local Git and Remote Github Repo                 
 Web-Ready Project Creation|❌                                                       |Maked the project Web-Ready and Deployed on: <a href="https://chatbot.baristok.com.tr" target="_blank">https://chatbot.baristok.com.tr</a>                                                            | ❌                                                           | ❌                                                           | ❌
 Data Processing|Maked the data Preprocess with Splunk and stored it on CSV and SQLite                                                       |❌                                                            | ❌                                                           | ❌                                                           | ❌
 Dataset Creation|❌                                                       |Created dataset with Web Scrape                                                            | ❌                                                           | ❌                                                           | ❌
-Data Source Founding|Founded source of data's (HTML table)                                                       |Founded Data Source                                                            | ❌                                                           | ❌                                                           | ❌
+Data Source Founding|Founded Data Source's Target HTML Header                                                       |Founded Data Source                                                            | ❌                                                           | ❌                                                           | ❌
 
 
 
