@@ -130,7 +130,7 @@ Access the Website (localhost:3000). You see ChatGPT like UI. Write your prompts
 
 <!-- Roadmap -->
 
-## :wave: Contributing
+## :wave: Collaborators
 
  Tasks | <img src="https://avatars.githubusercontent.com/u/114352315?v=4" width="128" height="128" style="border-radius: 50%; object-fit: cover;"/><br/>Mert ARSLAN | <img src="https://avatars.githubusercontent.com/u/165076154?v=4" width="128" height="128" style="border-radius: 50%; object-fit: cover;"/><br/>Barış TOK | <img src="https://avatars.githubusercontent.com/u/180930176?v=4" width="128" height="128" style="border-radius: 50%; object-fit: cover;"/><br/>Sudenur GÖKTEPE | <img src="https://avatars.githubusercontent.com/u/207037760?v=4" width="128" height="128" style="border-radius: 50%; object-fit: cover;"/><br/>Rabia Güllü KOCAEL | <img src="https://avatars.githubusercontent.com/u/175613127?v=4" width="128" height="128" style="border-radius: 50%; object-fit: cover;"/><br/>İrem Çınar |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
