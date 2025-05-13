@@ -25,6 +25,8 @@ Türkçe Readme.md Dosyasına erişmek için: <a href="/ReadmeTR.md">Readme TR</
 <!-- About the Project -->
 ## :star2: About the Project
 
+This project aims to develop an AI-powered laptop recommendation system that understands user needs in Turkish.
+Built on an AutoEncoder-based deep learning architecture, the system analyzes user requests expressed in free-form language and provides personalized recommendations using embedded latent vectors.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -107,7 +109,7 @@ Now you can access to website (localhost:3000 in my case) and API UI (127.0.0.1/
 <!-- Usage -->
 ## :eyes: Usage
 
-You can use our project in 4 ways.
+You can use our project in 3 different ways.
 
 1- Use cli.py
 in oneri-sistemi directory:
@@ -115,17 +117,13 @@ in oneri-sistemi directory:
 ```bash
   py(unix or unix-like system you need to use python) cli.py --prompt "enter your Turkish Prompt here"
 ```
-2- Use API UI
 
-Access the API UI (127.0.0.1/docs)
-in the ui you see try option on the top right, click on it.
-After that, you can enter your prompt on json format.
 
-3- Use Website
+2- Use Website
 
 Access the Website (localhost:3000). You see ChatGPT like UI. Write your prompts in chat area.
 
-4- Acces Baris's website for ready-to-use application
+3- Acces Baris's website for ready-to-use application
 
 <a href="https://chatbot.baristok.com.tr" target="_blank">https://chatbot.baristok.com.tr</a>
 
