@@ -106,7 +106,7 @@ Now you can access to website (localhost:3000 in my case) and API UI (127.0.0.1/
 <!-- Usage -->
 ## :eyes: Usage
 
-You can use our project in 3 ways.
+You can use our project in 4 ways.
 
 1- Use cli.py
 in oneri-sistemi directory:
